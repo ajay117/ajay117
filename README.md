@@ -11,12 +11,12 @@ Self-taught and a JavaScript enthusiast.
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Big fan of One Piece
 
-# My Projects
+## My Projects:-
 
-## 1. [Collective_wallet Api](https://github.com/ajay117/collective_wallet_api)
+### 1. [Collective_wallet Api](https://github.com/ajay117/collective_wallet_api)
 An API built with Node.js and Express to efficiently manage expenses.
 
-## 2. [Moviewood](https://github.com/ajay117/moviewood)
+### 2. [Moviewood](https://github.com/ajay117/moviewood)
  A web app where you can explore & search for movies, TV shows, and famous people.
 
 ### Skills 
