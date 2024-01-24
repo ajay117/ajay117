@@ -6,12 +6,18 @@ I'm a Full Stack Developer
 
 Self-taught and a JavaScript enthusiast.
 
-*   🌍  I'm based in South Korea
 *   🖥️  See my portfolio at [https://ajaykc.netlify.app/](http://ajaykc.netlify.app/)
 *   ✉️  You can contact me at [meajay64@gmail.com](mailto:meajay64@gmail.com)
-*   🚀  I'm currently working on [moviewood](http://moviewood.netlify.app)
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Big fan of One Piece
+
+# My Projects
+
+## 1. [Collective_wallet Api](https://github.com/ajay117/collective_wallet_api)
+An API built with Node.js and Express to efficiently manage expenses.
+
+## 2. [Moviewood](https://github.com/ajay117/moviewood)
+ A web app where you can explore & search for movies, TV shows, and famous people.
 
 ### Skills 
 <p align="left">
