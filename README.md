@@ -13,11 +13,15 @@ Self-taught and a JavaScript enthusiast.
 
 ## My Projects:-
 
-### 1. [Collective_wallet Api](https://github.com/ajay117/collective_wallet_api)
-An API built with Node.js and Express to efficiently manage expenses.
+### 1. [EPS KOREAN](https://epskorean.netlify.app/)
+ An online website with resources to learn and prepare for Korean EPS TOPIK.
 
 ### 2. [Moviewood](https://github.com/ajay117/moviewood)
  A web app where you can explore & search for movies, TV shows, and famous people.
+ 
+### 3. [Collective_wallet Api](https://github.com/ajay117/collective_wallet_api)
+An API built with Node.js and Express to efficiently manage expenses.
+
 
 ### Skills 
 <p align="left">
