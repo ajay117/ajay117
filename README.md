@@ -22,6 +22,32 @@ Self-taught and a JavaScript enthusiast.
 ### 3. [Collective_wallet Api](https://github.com/ajay117/collective_wallet_api)
 An API built with Node.js and Express to efficiently manage expenses.
 
+### Frontend Mentor Challenges
+
+1. **E-commerce Product Page**  
+   Live Site URL: [https://ajay117.github.io/ecommerce-product-page/](https://ajay117.github.io/ecommerce-product-page/)  
+   GitHub URL: [https://github.com/ajay117/ecommerce-product-page](https://github.com/ajay117/ecommerce-product-page?tab=readme-ov-file)
+
+2. **Bento Grid**  
+   Live Site URL: [https://ajay117.github.io/bento-grid/](https://ajay117.github.io/bento-grid/)  
+   GitHub URL: [https://github.com/ajay117/bento-grid](https://github.com/ajay117/bento-grid?tab=readme-ov-file)
+
+3. **Calculator App**  
+   Live Site URL: [https://ajay117.github.io/calculator-app/](https://ajay117.github.io/calculator-app/)  
+   GitHub URL: [https://github.com/ajay117/calculator-app](https://github.com/ajay117/calculator-app)
+
+4. **To Do App**  
+   Live Site URL: [https://ajay117.github.io/todo-app/](https://ajay117.github.io/todo-app/)  
+   GitHub URL: [https://github.com/ajay117/todo-app](https://github.com/ajay117/todo-app)
+
+5. **Ping Single Column Coming Soon Page**  
+   Live Site URL: [https://ajay117.github.io/ping-coming-soon-page/](https://ajay117.github.io/ping-coming-soon-page/)  
+   GitHub URL: [https://github.com/ajay117/ping-coming-soon-page](https://github.com/ajay117/ping-coming-soon-page)
+
+6. **Social Proof Section**  
+   Live Site URL: [https://ajay117.github.io/social-proof-section/](https://ajay117.github.io/social-proof-section/)  
+   GitHub URL: [https://github.com/ajay117/social-proof-section](https://github.com/ajay117/social-proof-section)
+
 
 ### Skills 
 <p align="left">
