@@ -14,7 +14,7 @@ Self-taught and a JavaScript enthusiast.
 ## My Projects:-
 
 ### 1. [EPS KOREAN](https://epskorean.netlify.app/)
- A web app with  to learn and prepare for Korean TOPIK. An all in one place to learn Korean vocabularies, dialogues, grammar, and so on.
+A web app for learning and preparing for the Korean TOPIK exam, offering everything you need in one place: vocabulary, dialogues, grammar, and more.
 
 ### 2. [Moviewood](https://github.com/ajay117/moviewood)
  A web app where you can explore & search for movies, TV shows, and famous people.
