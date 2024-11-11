@@ -4,7 +4,7 @@ Hi 👋 My name is AJAY K C
 I'm a Full Stack Developer
 --------------------------
 
-Self-taught and a JavaScript enthusiast.
+ Full Stack Developer and a JavaScript enthusiast.
 
 *   🖥️  See my portfolio at [https://ajaykc.netlify.app/](http://ajaykc.netlify.app/)
 *   ✉️  You can contact me at [meajay64@gmail.com](mailto:meajay64@gmail.com)
