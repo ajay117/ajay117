@@ -6,10 +6,9 @@ I'm a Full Stack Developer
 
  Full Stack Developer and a JavaScript enthusiast.
 
-*   🖥️  See my portfolio at [https://ajaykc.netlify.app/](http://ajaykc.netlify.app/)
+*   🖥️  See my portfolio at [https://kcajay.com/](https://kcajay.com/)
 *   ✉️  You can contact me at [meajay64@gmail.com](mailto:meajay64@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
-*   ⚡  Big fan of One Piece
 
 ## My Projects:-
 
