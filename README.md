@@ -10,7 +10,7 @@ I'm a Full Stack Developer
 *   ✉️  You can contact me at [meajay64@gmail.com](mailto:meajay64@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
 
-## My Projects:-
+## Latest Projects:-
 
 ### 1. [EPS KOREAN](https://epskorean.netlify.app/)
 A web app for learning and preparing for the Korean TOPIK exam, offering everything you need in one place: vocabulary, dialogues, grammar, and more.
