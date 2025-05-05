@@ -12,7 +12,7 @@ I'm a Full Stack Developer
 
 ## Latest Projects:-
 
-### 1. [EPS KOREAN](https://epskorean.netlify.app/)
+### 1. [EPS KOREAN](https://epskorean.com/)
 A web app for learning and preparing for the Korean TOPIK exam, offering everything you need in one place: vocabulary, dialogues, grammar, and more.
 
 ### 2. [Moviewood](https://github.com/ajay117/moviewood)
