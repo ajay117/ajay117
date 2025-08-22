@@ -1,72 +1,69 @@
-Hi 👋 My name is AJAY K C
+Hi 👋 My name is AJAY KC
 =========================
 
-I'm a Full Stack Developer
+Front-End & Full-Stack Developer
 --------------------------
 
- Full Stack Developer and a JavaScript enthusiast.
+I specialize in transforming Figma and Adobe XD designs into clean, responsive, and functional web applications. With a strong foundation in both front-end and back-end technologies, I bring ideas to life through modern development practices.
 
-*   🖥️  See my portfolio at [https://kcajay.com/](https://kcajay.com/)
-*   ✉️  You can contact me at [meajay64@gmail.com](mailto:meajay64@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects
+*   🎨  **Specializing in:** Converting design prototypes into pixel-perfect code.
+*   🖥️  See my portfolio at [kcajay.com](https://kcajay.com/)
+*   ✉️  You can contact me at [meajay64@gmail.com](mailto:meajay64@gmail.com)
+*   🤝  I'm open to collaborating on interesting projects as a developer or design-to-code specialist
 
-## Latest Projects:-
+## Featured Projects
 
 ### 1. [EPS KOREAN](https://epskorean.com/)
-A web app for learning and preparing for the Korean TOPIK exam, offering everything you need in one place: vocabulary, dialogues, grammar, and more.
+A comprehensive platform for learning and preparing for the Korean TOPIK exam, built with a focus on a clean user interface and responsive design translated from Figma/XD.
 
 ### 2. [Moviewood](https://github.com/ajay117/moviewood)
- A web app where you can explore & search for movies, TV shows, and famous people.
- 
+A responsive web app for exploring movies and TV shows, showcasing modern front-end development and API integration.
+
 ### 3. [Collective_wallet Api](https://github.com/ajay117/collective_wallet_api)
-An API built with Node.js and Express to efficiently manage expenses.
+A RESTful API built with Node.js and Express for efficient expense management, demonstrating full-stack capabilities.
 
-### Frontend Mentor Challenges
+## Frontend Mentor Challenges
 
-1. **E-commerce Product Page**  
-   Live Site URL: [https://ajay117.github.io/ecommerce-product-page/](https://ajay117.github.io/ecommerce-product-page/)  
-   GitHub URL: [https://github.com/ajay117/ecommerce-product-page](https://github.com/ajay117/ecommerce-product-page?tab=readme-ov-file)
+A collection of front-end projects focusing on converting design challenges into functional, responsive web pages.
 
-2. **Bento Grid**  
-   Live Site URL: [https://ajay117.github.io/bento-grid/](https://ajay117.github.io/bento-grid/)  
-   GitHub URL: [https://github.com/ajay117/bento-grid](https://github.com/ajay117/bento-grid?tab=readme-ov-file)
+1.  **E-commerce Product Page**  
+    [Live Site](https://ajay117.github.io/ecommerce-product-page/) | [Code](https://github.com/ajay117/ecommerce-product-page)
+2.  **Bento Grid**  
+    [Live Site](https://ajay117.github.io/bento-grid/) | [Code](https://github.com/ajay117/bento-grid)
+3.  **Calculator App**  
+    [Live Site](https://ajay117.github.io/calculator-app/) | [Code](https://github.com/ajay117/calculator-app)
+4.  **To Do App**  
+    [Live Site](https://ajay117.github.io/todo-app/) | [Code](https://github.com/ajay117/todo-app)
+5.  **Ping Single Column Coming Soon Page**  
+    [Live Site](https://ajay117.github.io/ping-coming-soon-page/) | [Code](https://github.com/ajay117/ping-coming-soon-page)
+6.  **Social Proof Section**  
+    [Live Site](https://ajay117.github.io/social-proof-section/) | [Code](https://github.com/ajay117/social-proof-section)
 
-3. **Calculator App**  
-   Live Site URL: [https://ajay117.github.io/calculator-app/](https://ajay117.github.io/calculator-app/)  
-   GitHub URL: [https://github.com/ajay117/calculator-app](https://github.com/ajay117/calculator-app)
+### Skills
 
-4. **To Do App**  
-   Live Site URL: [https://ajay117.github.io/todo-app/](https://ajay117.github.io/todo-app/)  
-   GitHub URL: [https://github.com/ajay117/todo-app](https://github.com/ajay117/todo-app)
-
-5. **Ping Single Column Coming Soon Page**  
-   Live Site URL: [https://ajay117.github.io/ping-coming-soon-page/](https://ajay117.github.io/ping-coming-soon-page/)  
-   GitHub URL: [https://github.com/ajay117/ping-coming-soon-page](https://github.com/ajay117/ping-coming-soon-page)
-
-6. **Social Proof Section**  
-   Live Site URL: [https://ajay117.github.io/social-proof-section/](https://ajay117.github.io/social-proof-section/)  
-   GitHub URL: [https://github.com/ajay117/social-proof-section](https://github.com/ajay117/social-proof-section)
-
-
-### Skills 
+#### Frontend & Design
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+</p>
+
+#### Build Tools & Backend
+<p align="left">
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-    
+
 ### Socials
 
 <p align="left">
@@ -80,4 +77,3 @@ An API built with Node.js and Express to efficiently manage expenses.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
 </p>
-
