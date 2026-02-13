@@ -1,15 +1,14 @@
 Hi 👋 My name is AJAY KC
 =========================
 
-Front-End & Full-Stack Developer
---------------------------
+## Front-End Developer | React & JavaScript
 
-I specialize in transforming Figma and Adobe XD designs into clean, responsive, and functional web applications. With a strong foundation in both front-end and back-end technologies, I bring ideas to life through modern development practices.
+I turn high-fidelity designs into responsive, production-ready web interfaces. I specialize in converting Figma and Adobe XD prototypes into clean, functional React code—ready for backend integration.
 
-*   🎨  **Specializing in:** Converting design prototypes into pixel-perfect code.
-*   🖥️  See my portfolio at [kcajay.com](https://kcajay.com/)
-*   ✉️  You can contact me at [meajay64@gmail.com](mailto:meajay64@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects as a developer or design-to-code specialist
+- 🎨 **Design to code:** High-fidelity prototypes → pixel-perfect frontends
+- 🖥️ **Portfolio:** [kcajay.com](https://kcajay.com/)
+- ✉️ **Contact:** [meajay64@gmail.com](mailto:meajay64@gmail.com)
+- 🤝 **Open to:** Front-end collaborations and design-to-development projects
 
 ## Featured Projects
 
