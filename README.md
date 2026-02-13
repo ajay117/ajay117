@@ -13,10 +13,10 @@ I turn high-fidelity designs into responsive, production-ready web interfaces. I
 ## Featured Projects
 
 ### 1. [EPS KOREAN](https://epskorean.com/)
-A comprehensive platform for learning and preparing for the Korean TOPIK exam, built with a focus on a clean user interface and responsive design translated from Figma/XD.
+A digital Korean textbook and practice hub for EPS-TOPIK aspirants. The site offers structured lessons with detailed vocabulary, grammar explanations, and dialogue sections—plus supplementary practice materials—all in one place for self-paced learning.
 
 ### 2. [Moviewood](https://github.com/ajay117/moviewood)
-A responsive web app for exploring movies and TV shows, showcasing modern front-end development and API integration.
+Your go-to guide for entertainment. Find release dates, cast info, ratings, and more for your favorite movies, TV shows, and celebrities.
 
 ### 3. [Collective_wallet Api](https://github.com/ajay117/collective_wallet_api)
 A RESTful API built with Node.js and Express for efficient expense management, demonstrating full-stack capabilities.
